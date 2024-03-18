@@ -10,7 +10,7 @@ class MyApp : Application() {
         super.onCreate()
 
 
-        DynamicColors.applyToActivitiesIfAvailable(this)
+//        DynamicColors.applyToActivitiesIfAvailable(this)
 
     }
 
